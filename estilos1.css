@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+}
+.box1{
+    display: flex;
+}
+.box2{
+    display: flex;
+}
+.box3{
+    display: flex;
+}
+.Imagenenvios {
+    height: 10px;
+    width: 10px;}
+.Imagentarjeta {
+    height: 10px;
+    width: 10px;}
+.Imagenubicacion {
+    height: 10px;
+    width: 10px;}
